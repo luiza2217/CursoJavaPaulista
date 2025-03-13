@@ -5,8 +5,7 @@ public class pessoa{ // Uma classe tem atributos ( caracteristicas) e os método
   private double altura;
   private int idade;
   public String nome;  // get tem objetivo de retomar um valor que foi dado, o set ele atribui e recebe como argumento informação
-
-public void setPeso(double peso){
+  public void setPeso(double peso){
     this.peso = peso;
 }
 
